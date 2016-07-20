@@ -1,0 +1,8 @@
+Include/
+Lib/
+Scripts/
+forms.sublime-project
+forms.sublime-workspace
+pip-selfcheck.json
+
+*.py[cod]

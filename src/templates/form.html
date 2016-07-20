@@ -1,0 +1,11 @@
+<!DOCTYPE hmtl>
+
+<html>
+<head></head>
+<body>
+	<form method="POST" action="">{% csrf_token %}
+		{{ form.as_p }}
+	<input type="submit" value="Confirmar" />
+	</form>
+</body>
+</html>
